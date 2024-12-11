@@ -1,0 +1,48 @@
+11/12
+
+14.0
+Stock manager migliorato
+
+13.0
+Nuovo loading spinner per cambio stato/provincai
+
+12.0
+Implementata session security
+
+11.0 
+Risolta Race Condition nella Gestione dello Stock
+
+
+10/12
+
+10.0 15.56
+Miglioramento verify_origin()
+
+9.0
+Aggiunta protezione a funzione showError
+
+8.0 12.20
+Race conditions nello stock
+
+7.0 11.27
+Sanitizzazione fields
+
+6.0 9.56
+Implementato rate limiting
+
+5.0 9.30
+Implementato verify origin
+
+09/12
+
+4.0 17.27
+Implementatata rotazione token
+
+3.0 16.56
+Ottimizzazioni per protezioni. Ora non si triggera nessun erroe
+
+2.0 12.57
+Aggiutna protezione XSS
+
+1.9 12.31 
+Aggiunta protezione CSRF FUNZIONANTE!!!!!
